@@ -1,4 +1,4 @@
-# Smaller /  Learning Projects
+# Smaller Projects for Independent Learning and Exploration
 This repository holds my smaller projects. They are mainly for me to learn new APIs or languages. They tend to be focused on a concise solution to a a challenge that picqued my interest. 
 
 # Card Price
